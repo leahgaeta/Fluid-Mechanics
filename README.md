@@ -1,2 +1,3 @@
-# MATLAB
-This is a collection of projects, lecture notes, and teaching tools from my engineering courses that use MATLAB
+# Tensile Testing
+Data and code from a Tensile Testing laboratory exercise
+Mechanics of Materials 
