@@ -1,5 +1,5 @@
-# Tensile Testing
-Data and code from a Tensile Testing laboratory exercise
+# Fluid Mechanics
 
+Study guides and laboratory exercises with data, code, and reports for my fluid mechanics course.
 
-Mechanics of Materials 
+Fluid Mechanics
